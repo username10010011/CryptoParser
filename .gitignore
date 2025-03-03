@@ -1,4 +1,9 @@
 .vscode/
 __pycache__/
+callbacks/__pycache__/
+data/__pycache__/
+data/users/users.csv
+data/users/users.db
 *.pyc
 TODO.txt
+t.py
